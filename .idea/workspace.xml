@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e661312d-5fb7-4c70-be15-725faf228dd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Models/UserModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Models/UserModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Models/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Views/_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Views/User/_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Views/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Views/User/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Views/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Views/User/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Views/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Views/User/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Views/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Views/User/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Views/User/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/Core/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/users.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kh2EXSbVn2hhfRhQs89vaKqVdf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\sites\first\App\Controllers" />
+      <recent name="C:\Users\user\Desktop\sites\first\App\Views\User" />
+      <recent name="C:\Users\user\Desktop\sites\first\users" />
+      <recent name="C:\OpenServer\domains\MVC2\KrivoeMVC" />
+      <recent name="C:\OpenServer\domains\MVC2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e661312d-5fb7-4c70-be15-725faf228dd1" name="Default Changelist" comment="" />
+      <created>1605953281703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605953281703</updated>
+      <workItem from="1605953282831" duration="6151000" />
+      <workItem from="1606039989874" duration="1175000" />
+      <workItem from="1606073408223" duration="1224000" />
+      <workItem from="1606138395064" duration="8283000" />
+      <workItem from="1606201651327" duration="24812000" />
+      <workItem from="1606288106768" duration="2689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="243" key="NewPhpClassDialog" timestamp="1606211425241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606211425241" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1606211488772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606211488772" />
+    <state x="358" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606138836497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="358" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606138836497" />
+    <state x="1040" y="10" width="879" height="1019" key="dock-window-1" timestamp="1606291559593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1040" y="10" width="879" height="1019" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1606291559593" />
+    <state x="1094" y="16" width="842" height="709" key="dock-window-2" timestamp="1606225312921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="16" width="842" height="709" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1606225312921" />
+    <state x="248" y="253" width="585" height="534" key="find.popup" timestamp="1606144747418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="248" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606144747418" />
+    <state x="196" y="242" key="run.anything.popup" timestamp="1606138380989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="196" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606138380989" />
+  </component>
+</project>
